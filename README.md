@@ -10,5 +10,7 @@
 
 - **Singleton**: We want there to be a single application example throughout the Teknokent application in order to ensure that all transactions and situations in the system can be shared within the same application. So we aim for all students and companies to work on the same application.
 
+### UML Diagram:
+![uml](https://github.com/emreeldemir/Teknokent/assets/96485887/abff8c0f-e8be-45cd-993b-83342b436fda)
 
 
